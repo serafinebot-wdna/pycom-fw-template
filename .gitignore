@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__
+lib/*
+firmware/*
+!firmware/pycom-esp-idf
+!firmware/pycom-micropython-sigfox

@@ -1,0 +1,8 @@
+[submodule "firmware/pycom-esp-idf"]
+	path = firmware/pycom-esp-idf
+	url = https://github.com/pycom/pycom-esp-idf.git
+	ignore = all
+[submodule "firmware/pycom-micropython-sigfox"]
+	path = firmware/pycom-micropython-sigfox
+	url = https://github.com/pycom/pycom-micropython-sigfox.git
+	ignore = all
